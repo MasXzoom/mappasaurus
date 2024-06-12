@@ -1,6 +1,6 @@
 # Mappasaurus Bot
 
-Bot ini otomatis melakukan farming di aplikasi Tap Tap Crypto. Bot ini dapat melakukan upgrade booster, klaim koin, dan menyelesaikan tugas secara otomatis.
+Bot ini otomatis melakukan farming di aplikasi . Bot ini dapat melakukan upgrade booster, klaim koin, dan menyelesaikan tugas secara otomatis.
 
 ## Fitur
 
